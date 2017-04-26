@@ -1,0 +1,8 @@
+﻿  task1_tk.cpp
+task1_tk.cpp(208): warning C4805: '!=': unsafe mix of type 'bool' and type 'int' in operation
+task1_tk.cpp(272): warning C4551: function call missing argument list
+task1_tk.cpp(285): warning C4551: function call missing argument list
+c:\users\bartosz\desktop\task1_tkedited\task1_tk\task1_tk\task1_tk.cpp(176): warning C4715: 'task1_TK::szukaj2Bledy': not all control paths return a value
+c:\users\bartosz\desktop\task1_tkedited\task1_tk\task1_tk\task1_tk.cpp(217): warning C4715: 'task1_TK::szukaj1Blad': not all control paths return a value
+  task1_TK.vcxproj -> C:\Users\bartosz\Desktop\task1_TKedited\task1_TK\x64\Debug\task1_TK.exe
+  task1_TK.vcxproj -> C:\Users\bartosz\Desktop\task1_TKedited\task1_TK\x64\Debug\task1_TK.pdb (Full PDB)
